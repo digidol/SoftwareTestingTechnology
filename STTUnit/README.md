@@ -1,0 +1,2 @@
+# STTUnit
+This folder contains an example of how you could build a test driver like JUnit. The example is called STTUnit. This is an academic exercise to illustrate what you would need to do in order to create this. 
